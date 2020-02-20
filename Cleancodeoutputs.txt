@@ -1,0 +1,164 @@
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+1
+Enter Your choice to calcuate interest :
+1. Simple Interest
+2. Compound Interest
+2
+Enter Principle Amount
+2000
+Enter rate of interest (%) :
+0.8
+Enter Number of time period Elapsed :
+5
+Enter number of times that interest applied per time period
+12
+Compound Interest after 5 years: 94106.64389538176
+Amount after 5 years: 96106.64389538176
+--------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+1
+Enter Your choice to calcuate interest :
+1. Simple Interest
+2. Compound Interest
+1
+Enter Principle Amount
+200
+Enter rate of interest :
+5
+Enter time period :
+10
+Simple Interest is: 100.0
+----------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+2
+Select the type of material for construction
+----------Material Type----------
+1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material & Fully Automated Home
+-------------------------------
+Note: Fully Automated Home Option is only Available for High Standard Material
+1
+Enter the Area of House in Sq.ft's :
+240
+-----cost for the construction of the House-----
+Material Type: Standard
+Housing Area in sq.ft's: 240
+288000INR only/-
+-------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+2
+Select the type of material for construction
+----------Material Type----------
+1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material & Fully Automated Home
+-------------------------------
+Note: Fully Automated Home Option is only Available for High Standard Material
+2
+Enter the Area of House in Sq.ft's :
+240
+-----cost for the construction of the House-----
+Material Type: Above Standard
+Housing Area in sq.ft's: 240
+360000INR only/-
+------------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+2
+Select the type of material for construction
+----------Material Type----------
+1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material & Fully Automated Home
+-------------------------------
+Note: Fully Automated Home Option is only Available for High Standard Material
+3
+Enter the Area of House in Sq.ft's :
+240
+-----cost for the construction of the House-----
+Material Type: High Standard
+Housing Area in sq.ft's: 240
+432000INR only/-
+---------------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+2
+Select the type of material for construction
+----------Material Type----------
+1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material & Fully Automated Home
+-------------------------------
+Note: Fully Automated Home Option is only Available for High Standard Material
+4
+Enter the Area of House in Sq.ft's :
+240
+-----cost for the construction of the House-----
+Material Type: High Standard(FUllY AUTOMATED)
+Housing Area in sq.ft's: 240
+600000INR only/-
+------------------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+5
+You Have Choosen Invalid Input
+Try Executing the Program Again!! From the BEGIN with a Valid Input
+-------------------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+1
+Enter Your choice to calcuate interest :
+1. Simple Interest
+2. Compound Interest
+4
+You Have Choosen Invalid Input
+Try Executing the Program Again!! From the BEGIN with a Valid Input
+-------------------------------------------------------------------------------------
+Welcome to clean code
+Select A Program for Execution :
+1. Calculate Simple Interest/Compound Interest
+2. Calculate the Cost For Construction of a House
+2
+Select the type of material for construction
+----------Material Type----------
+1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material & Fully Automated Home
+-------------------------------
+Note: Fully Automated Home Option is only Available for High Standard Material
+5
+You Have Choosen Invalid Input
+Try Executing the Program Again!! From the BEGIN with a Valid Input
+
+
+
+
+
+
+
